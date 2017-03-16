@@ -2,7 +2,8 @@ $(document).ready(function(){
 	$("#event_content").hide();
 	$("#result_content").hide();
 	$("#team_content").hide();
-	$("#Badminton_content").hide();
+	$("#BadmintonM_content").hide();
+    $("#BadmintonW_content").hide();
 	$("#Basketball_content").hide();
 	$("#Cricket_content").hide();
 	$("#Football_content").hide();
@@ -16,7 +17,8 @@ $(document).ready(function(){
         $("#event_content").hide();
         $("#result_content").hide();
         $("#team_content").hide();
-        $("#Badminton_content").hide();
+        $("#BadmintonM_content").hide();
+        $("#BadmintonW_content").hide();
         $("#Basketball_content").hide();
         $("#Cricket_content").hide();
         $("#Football_content").hide();
@@ -31,7 +33,8 @@ $(document).ready(function(){
         $("#event_content").show();
         $("#result_content").hide();
         $("#team_content").hide();
-        $("#Badminton_content").hide();
+        $("#BadmintonM_content").hide();
+        $("#BadmintonW_content").hide();
         $("#Basketball_content").hide();
         $("#Cricket_content").hide();
         $("#Football_content").hide();
@@ -46,7 +49,8 @@ $(document).ready(function(){
         $("#event_content").hide();
         $("#result_content").show();
         $("#team_content").hide();
-        $("#Badminton_content").hide();
+        $("#BadmintonM_content").hide();
+        $("#BadmintonW_content").hide();
         $("#Basketball_content").hide();
         $("#Cricket_content").hide();
         $("#Football_content").hide();
@@ -61,7 +65,8 @@ $(document).ready(function(){
         $("#event_content").hide();
         $("#result_content").hide();
         $("#team_content").show();
-        $("#Badminton_content").hide();
+        $("#BadmintonM_content").hide();
+        $("#BadmintonW_content").hide();
         $("#Basketball_content").hide();
         $("#Cricket_content").hide();
         $("#Football_content").hide();
@@ -71,12 +76,29 @@ $(document).ready(function(){
         $("#Volleyball_content").hide();
         $("#gallery_content").hide();
     });
-    $("#Badminton_button").click(function(){
+    $("#BadmintonM_button").click(function(){
         $("#home_content").hide();
         $("#event_content").hide();
         $("#result_content").hide();
         $("#team_content").hide();
-        $("#Badminton_content").show();
+        $("#BadmintonM_content").show();
+        $("#BadmintonW_content").hide();
+        $("#Basketball_content").hide();
+        $("#Cricket_content").hide();
+        $("#Football_content").hide();
+        $("#Lawn_content").hide();
+        $("#TableM_content").hide();
+        $("#TableW_content").hide();
+        $("#Volleyball_content").hide();
+        $("#gallery_content").hide();
+    });
+    $("#BadmintonW_button").click(function(){
+        $("#home_content").hide();
+        $("#event_content").hide();
+        $("#result_content").hide();
+        $("#team_content").hide();
+        $("#BadmintonM_content").hide();
+        $("#BadmintonW_content").show();
         $("#Basketball_content").hide();
         $("#Cricket_content").hide();
         $("#Football_content").hide();
@@ -91,7 +113,8 @@ $(document).ready(function(){
         $("#event_content").hide();
         $("#result_content").hide();
         $("#team_content").hide();
-        $("#Badminton_content").hide();
+        $("#BadmintonM_content").hide();
+        $("#BadmintonW_content").hide();
         $("#Basketball_content").show();
         $("#Cricket_content").hide();
         $("#Football_content").hide();
@@ -106,7 +129,8 @@ $(document).ready(function(){
         $("#event_content").hide();
         $("#result_content").hide();
         $("#team_content").hide();
-        $("#Badminton_content").hide();
+        $("#BadmintonM_content").hide();
+        $("#BadmintonW_content").hide();
         $("#Basketball_content").hide();
         $("#Cricket_content").show();
         $("#Football_content").hide();
@@ -121,7 +145,8 @@ $(document).ready(function(){
         $("#event_content").hide();
         $("#result_content").hide();
         $("#team_content").hide();
-        $("#Badminton_content").hide();
+        $("#BadmintonM_content").hide();
+        $("#BadmintonW_content").hide();
         $("#Basketball_content").hide();
         $("#Cricket_content").hide();
         $("#Football_content").show();
@@ -136,7 +161,8 @@ $(document).ready(function(){
         $("#event_content").hide();
         $("#result_content").hide();
         $("#team_content").hide();
-        $("#Badminton_content").hide();
+        $("#BadmintonM_content").hide();
+        $("#BadmintonW_content").hide();
         $("#Basketball_content").hide();
         $("#Cricket_content").hide();
         $("#Football_content").hide();
@@ -151,7 +177,8 @@ $(document).ready(function(){
         $("#event_content").hide();
         $("#result_content").hide();
         $("#team_content").hide();
-        $("#Badminton_content").hide();
+        $("#BadmintonM_content").hide();
+        $("#BadmintonW_content").hide();
         $("#Basketball_content").hide();
         $("#Cricket_content").hide();
         $("#Football_content").hide();
@@ -166,7 +193,8 @@ $(document).ready(function(){
         $("#event_content").hide();
         $("#result_content").hide();
         $("#team_content").hide();
-        $("#Badminton_content").hide();
+        $("#BadmintonM_content").hide();
+        $("#BadmintonW_content").hide();
         $("#Basketball_content").hide();
         $("#Cricket_content").hide();
         $("#Football_content").hide();
@@ -181,7 +209,8 @@ $(document).ready(function(){
         $("#event_content").hide();
         $("#result_content").hide();
         $("#team_content").hide();
-        $("#Badminton_content").hide();
+        $("#BadmintonM_content").hide();
+        $("#BadmintonW_content").hide();
         $("#Basketball_content").hide();
         $("#Cricket_content").hide();
         $("#Football_content").hide();
@@ -196,7 +225,8 @@ $(document).ready(function(){
         $("#event_content").hide();
         $("#result_content").hide();
         $("#team_content").hide();
-        $("#Badminton_content").hide();
+        $("#BadmintonM_content").hide();
+        $("#BadmintonW_content").hide();
         $("#Basketball_content").hide();
         $("#Cricket_content").hide();
         $("#Football_content").hide();
