@@ -237,3 +237,9 @@ $(document).ready(function(){
         $("#gallery_content").show();
     });
 });
+
+$(document).on('click','.navbar-collapse.in',function(e) {
+    if( $(e.target).is('a') ) {
+        $(this).collapse('hide');
+    }
+});
