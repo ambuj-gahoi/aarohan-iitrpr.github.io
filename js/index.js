@@ -63,6 +63,7 @@ $(document).ready(function(){
         $("#Volleyball_content").hide();
 		$("#VolleyballW_content").hide();
         $("#gallery_content").hide();
+        alert("Result Section will be soon updated with point tables!");
     });
     $("#team_button").click(function(){
         $("#home_content").hide();
