@@ -1,4 +1,5 @@
 $(document).ready(function(){
+    alert("Results Section has been updated for cricket and rest will be updated soon!");
 	$("#event_content").hide();
 	$("#result_content").hide();
 	$("#team_content").hide();
@@ -63,7 +64,7 @@ $(document).ready(function(){
         $("#Volleyball_content").hide();
 		$("#VolleyballW_content").hide();
         $("#gallery_content").hide();
-        alert("Result Section will be soon updated with point tables!");
+        //alert("Result Section will be soon updated with point tables!");
     });
     $("#team_button").click(function(){
         $("#home_content").hide();
