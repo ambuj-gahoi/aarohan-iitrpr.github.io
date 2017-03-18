@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    alert("Results Section has been updated, day 2 events has been updated!");
+    alert("Results Section has been updated, day 2 events has been updated in RESULT SECTION!");
 	$("#event_content").hide();
 	$("#result_content").hide();
 	$("#team_content").hide();
