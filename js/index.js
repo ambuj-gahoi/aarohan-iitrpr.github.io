@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    alert("Results Section has been updated for Cricket, Volleyball and rest will be updated soon!");
+    alert("Results Section has been updated, day 2 events has been updated!");
 	$("#event_content").hide();
 	$("#result_content").hide();
 	$("#team_content").hide();
