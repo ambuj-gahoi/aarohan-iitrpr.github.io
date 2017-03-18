@@ -1,5 +1,6 @@
 $(document).ready(function(){
     alert("Results Section has been updated, day 2 events has been updated in RESULT SECTION!");
+    alert("Results Section has been updated, day 2 events has been updated in RESULT SECTION!");
 	$("#event_content").hide();
 	$("#result_content").hide();
 	$("#team_content").hide();
@@ -32,6 +33,8 @@ $(document).ready(function(){
         $("#gallery_content").hide();
     });
     $("#event_button").click(function(){
+        alert("Please visit result section for day 2's events");
+        alert("Please visit result section for day 2's events");
         $("#home_content").hide();
         $("#event_content").show();
         $("#result_content").hide();
