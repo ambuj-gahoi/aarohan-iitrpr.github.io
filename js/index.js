@@ -63,7 +63,6 @@ $(document).ready(function(){
         $("#Volleyball_content").hide();
 		$("#VolleyballW_content").hide();
         $("#gallery_content").hide();
-        //alert("Result Section will be soon updated with point tables!");
     });
     $("#team_button").click(function(){
         $("#home_content").hide();
@@ -205,7 +204,7 @@ $(document).ready(function(){
         $("#home_content").hide();
         $("#event_content").hide();
         $("#result_content").hide();
-        $("#team_content").hide(); 
+        $("#team_content").hide();
         $("#BadmintonM_content").hide();
         $("#BadmintonW_content").hide();
         $("#Basketball_content").hide();
