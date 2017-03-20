@@ -205,7 +205,7 @@ $(document).ready(function(){
         $("#home_content").hide();
         $("#event_content").hide();
         $("#result_content").hide();
-        $("#team_content").hide();
+        $("#team_content").hide(); 
         $("#BadmintonM_content").hide();
         $("#BadmintonW_content").hide();
         $("#Basketball_content").hide();
